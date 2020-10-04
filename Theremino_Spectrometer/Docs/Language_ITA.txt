@@ -1,0 +1,64 @@
+-------------------------------
+Menu_File=                      File
+Menu_File_Exit=	                Esci
+-------------------------------
+Menu_Tools=                     Strumenti
+Menu_Tools_VideoinControls=     Controlli video
+Menu_Tools_TrimPoints=          Punti di taratura
+Menu_Tools_Trim1=               Lampada fluorescente 436 546
+Menu_Tools_Trim2=               Lampada fluorescente 436 692
+Menu_Tools_TrimSelect=          Selezionare manualmente i punti di taratura
+-------------------------------
+Menu_Language=                  Lingue
+-------------------------------
+Menu_Help=                      Aiuto
+Menu_Help_ProgramHelp=          Istruzioni del programma
+Menu_Help_Technology=           Tecnologia
+Menu_Help_Construction=         Costruzione
+Menu_Help_Spectrums=            Spettri di esempio
+Menu_Help_OpenProgramFolder=    Apri la cartella del programma
+-------------------------------
+Menu_About=                     Informazioni
+-------------------------------           
+Tool_VideoControls=             Controlli video
+Tools_SaveSpectrum=             Salva immagine spettro
+Tools_SaveCamera=               Salva immagine camera
+Tools_SaveTotal=                Salva immagine totale
+-------------------------------
+GroupBox_VideoInDevice=         Dispositivo di ingresso video
+-------------------------------
+GroupBox_Input=                 Video
+chk_Flip=                       Flip
+Label_SizeY=                    Dim. Y
+Label_StartY=                   Inizio Y
+Label_StartX=                   Inizio X
+Label_EndX=                     Fine X                    
+-------------------------------
+GroupBox_SaveImage=             Salva immagine
+Label_Path=                     Percorso
+Label_Name=                     Nome
+Label_JpegQuality=              Qualità JPEG
+-------------------------------
+btn_Reference=                  Riferimento
+btn_Dips=                       Valli
+btn_Peaks=                      Picchi
+btn_Colors=                     Colori
+Label_Filter=                   Filtro
+Label_Speed=                    Velocità
+btn_TrimScale=                  Taratura
+-------------------------------
+Form_VideoInControls=           Controlli Ingresso Video
+Tool_OpenSourcePanel=           Pannello regolazioni
+Tool_OpenFormatPanel=           Pannello formati
+Label_Default=                  Default
+Label_Auto=                     Auto
+Label_Compression=              Compressione
+Label_VideoSize=                Dimensione video
+Label_MaxFps=                   FPS max
+btn_DefaultAll=                 Default totale
+btn_Close=                      Chiudi
+-------------------------------
+Msg_About=                      Spettrometro per la luce visibile, gli UVA e gli infrarossi
+Msg_TrimTitle=                  Punti di taratura
+Msg_Trim1=                      Immettere il primo punto di taratura in nanometri.
+Msg_Trim2=                      Immettere il secondo punto di taratura in nanometri.

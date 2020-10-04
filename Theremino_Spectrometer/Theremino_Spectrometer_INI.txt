@@ -1,0 +1,46 @@
+ Program Params
+===========================================
+ Program Params
+===========================================
+FormMain_Top=          257
+FormMain_Left=         168
+FormMain_Width=        969
+FormMain_Height=       526
+FormMain_WindowState=  0
+Form_VideoInControls_Top=262
+Form_VideoInControls_Left=1142
+Form_VideoInControls_VisibleAtStart=True
+
+===========================================
+Language=              ENG
+
+ Output file
+===========================================
+FilePath=              F:\Rodolfo Bortoluzzi
+FileName=              0_17
+FileFormat=            JPG
+JpegQuality=           100
+
+ Video Input Params
+===========================================
+VideoInDevice=         0 Microsoft® LifeCam HD-3000
+VideoFormat=           YUY2
+VideoSize=             640 x 480
+VideoFPS=              30
+
+ Params
+===========================================
+Flip=                  False
+StartX=                0
+EndX=                  1000
+StartY=                30
+SizeY=                 27
+Dips=                  True
+Peaks=                 False
+Colors=                True
+Filter=                30
+Speed=                 10
+MinNm=                 227,68
+MaxNm=                 1451,16
+TrimPoint1=            436
+TrimPoint2=            546

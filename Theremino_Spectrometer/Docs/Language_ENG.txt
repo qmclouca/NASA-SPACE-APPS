@@ -1,0 +1,64 @@
+-------------------------------
+Menu_File=                      File
+Menu_File_Exit=			Exit
+-------------------------------
+Menu_Tools=                     Tools
+Menu_Tools_VideoinControls=     Video controls
+Menu_Tools_TrimPoints=          Trim points
+Menu_Tools_Trim1=               Fluorescent 436 546
+Menu_Tools_Trim2=               Fluorescent 436 692
+Menu_Tools_TrimSelect=          Select trim points manually
+-------------------------------
+Menu_Language=                  Language
+-------------------------------
+Menu_Help=                      Help
+Menu_Help_ProgramHelp=          Program help
+Menu_Help_Technology=           Technology
+Menu_Help_Construction=         Construction
+Menu_Help_Spectrums=            Example spectrums
+Menu_Help_OpenProgramFolder=    Open program folder
+-------------------------------
+Menu_About=                     About
+-------------------------------
+Tool_VideoControls=             Video controls
+Tools_SaveSpectrum=             Spectrum image
+Tools_SaveCamera=               Camera image
+Tools_SaveTotal=                Total image
+-------------------------------
+GroupBox_VideoInDevice=         Video Input Device
+-------------------------------
+GroupBox_Input=                 Input
+chk_Flip=                       Flip
+Label_SizeY=                    Size Y
+Label_StartY=                   Start Y
+Label_StartX=                   Start X
+Label_EndX=                     End X                   
+-------------------------------
+GroupBox_SaveImage=             Save image
+Label_Path=                     Path
+Label_Name=                     Name
+Label_JpegQuality=              JPEG quality
+-------------------------------
+btn_Reference=                  Reference
+btn_Dips=                       Dips
+btn_Peaks=                      Peaks
+btn_Colors=                     Colors
+Label_Filter=                   Filter
+Label_Speed=                    Speed
+btn_TrimScale=                  Trim scale
+-------------------------------
+Form_VideoInControls=           Video Input Controls
+Tool_OpenSourcePanel=           Open Source Panel
+Tool_OpenFormatPanel=           Open Format Panel
+Label_Default=                  Default
+Label_Auto=                     Auto
+Label_Compression=              Compression
+Label_VideoSize=                Video size
+Label_MaxFps=                   Max FPS
+btn_DefaultAll=                 Default for all
+btn_Close=                      Close
+-------------------------------
+Msg_About=                      Visible, UVA and Near Infrared Spectrometer
+Msg_TrimTitle=                  Manual Trim Points
+Msg_Trim1=                      Enter the first trim point in nanometers.
+Msg_Trim2=                      Enter the second trim point in nanometers.

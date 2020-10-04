@@ -1,0 +1,38 @@
+C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Theremino_Spectrometer\Theremino_Spectrometer.exe
+C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Theremino_Spectrometer\Theremino_Spectrometer.pdb
+C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Sources\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Sources\obj\x86\Debug\Theremino_Spectrometer.dlgCorners.resources
+C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Sources\obj\x86\Debug\Theremino_Spectrometer.DropdownColorBlender.resources
+C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Sources\obj\x86\Debug\Theremino_Spectrometer.MyButton.resources
+C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Sources\obj\x86\Debug\Theremino_Spectrometer.Form_Main.resources
+C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Sources\obj\x86\Debug\Theremino_Spectrometer.Form_About.resources
+C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Sources\obj\x86\Debug\Theremino_Spectrometer.Form_VideoInControls.resources
+C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Sources\obj\x86\Debug\Theremino_Spectrometer.vbproj.GenerateResource.Cache
+C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Sources\obj\x86\Debug\Theremino_Spectrometer.exe
+C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Sources\obj\x86\Debug\Theremino_Spectrometer.pdb
+C:\Users\Rodolfo\VAIO\RODOLFO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Theremino_Spectrometer\Theremino_Spectrometer.exe
+C:\Users\Rodolfo\VAIO\RODOLFO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Theremino_Spectrometer\Theremino_Spectrometer.pdb
+C:\Users\Rodolfo\VAIO\RODOLFO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.dlgCorners.resources
+C:\Users\Rodolfo\VAIO\RODOLFO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.DropdownColorBlender.resources
+C:\Users\Rodolfo\VAIO\RODOLFO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.MyButton.resources
+C:\Users\Rodolfo\VAIO\RODOLFO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.Form_Main.resources
+C:\Users\Rodolfo\VAIO\RODOLFO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.Form_About.resources
+C:\Users\Rodolfo\VAIO\RODOLFO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.Form_VideoInControls.resources
+C:\Users\Rodolfo\VAIO\RODOLFO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.vbproj.GenerateResource.Cache
+C:\Users\Rodolfo\VAIO\RODOLFO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.vbproj.CoreCompileInputs.cache
+C:\Users\Rodolfo\VAIO\RODOLFO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.exe
+C:\Users\Rodolfo\VAIO\RODOLFO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.pdb
+C:\Users\Rodolfo\VAIO\RODOLFO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.vbprojResolveAssemblyReference.cache
+F:\Google Drive\RODOLFO BORTOLUZZI\TRABALHO\UNIVINTE CENTRO TECNOLÓGICO\FUCAP VAIO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Theremino_Spectrometer\Theremino_Spectrometer.exe
+F:\Google Drive\RODOLFO BORTOLUZZI\TRABALHO\UNIVINTE CENTRO TECNOLÓGICO\FUCAP VAIO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Theremino_Spectrometer\Theremino_Spectrometer.pdb
+F:\Google Drive\RODOLFO BORTOLUZZI\TRABALHO\UNIVINTE CENTRO TECNOLÓGICO\FUCAP VAIO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.vbprojAssemblyReference.cache
+F:\Google Drive\RODOLFO BORTOLUZZI\TRABALHO\UNIVINTE CENTRO TECNOLÓGICO\FUCAP VAIO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.dlgCorners.resources
+F:\Google Drive\RODOLFO BORTOLUZZI\TRABALHO\UNIVINTE CENTRO TECNOLÓGICO\FUCAP VAIO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.DropdownColorBlender.resources
+F:\Google Drive\RODOLFO BORTOLUZZI\TRABALHO\UNIVINTE CENTRO TECNOLÓGICO\FUCAP VAIO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.MyButton.resources
+F:\Google Drive\RODOLFO BORTOLUZZI\TRABALHO\UNIVINTE CENTRO TECNOLÓGICO\FUCAP VAIO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.Form_Main.resources
+F:\Google Drive\RODOLFO BORTOLUZZI\TRABALHO\UNIVINTE CENTRO TECNOLÓGICO\FUCAP VAIO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.Form_About.resources
+F:\Google Drive\RODOLFO BORTOLUZZI\TRABALHO\UNIVINTE CENTRO TECNOLÓGICO\FUCAP VAIO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.Form_VideoInControls.resources
+F:\Google Drive\RODOLFO BORTOLUZZI\TRABALHO\UNIVINTE CENTRO TECNOLÓGICO\FUCAP VAIO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.vbproj.GenerateResource.cache
+F:\Google Drive\RODOLFO BORTOLUZZI\TRABALHO\UNIVINTE CENTRO TECNOLÓGICO\FUCAP VAIO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.vbproj.CoreCompileInputs.cache
+F:\Google Drive\RODOLFO BORTOLUZZI\TRABALHO\UNIVINTE CENTRO TECNOLÓGICO\FUCAP VAIO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.exe
+F:\Google Drive\RODOLFO BORTOLUZZI\TRABALHO\UNIVINTE CENTRO TECNOLÓGICO\FUCAP VAIO\FUCAP\Acadêmicos\Raul\Theremino_Spectrometer_V2.5_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.pdb

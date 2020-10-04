@@ -1,0 +1,64 @@
+﻿-------------------------------
+Menu_File=                      Fichier
+Menu_File_Exit=					Sortie
+-------------------------------
+Menu_Tools=                     Outils
+Menu_Tools_VideoinControls=     Contrôles Video
+Menu_Tools_TrimPoints=          Points de calibration
+Menu_Tools_Trim1=               Fluorescent 436 546
+Menu_Tools_Trim2=               Fluorescent 436 692
+Menu_Tools_TrimSelect=          Sélectionner manuellement
+-------------------------------
+Menu_Language=                  Langage
+-------------------------------
+Menu_Help=                      Aide
+Menu_Help_ProgramHelp=          Aide du programme
+Menu_Help_Technology=           Technologie
+Menu_Help_Construction=         Construction
+Menu_Help_Spectrums=            Examples de spectrogrammes
+Menu_Help_OpenProgramFolder=    Ouvrir le dossier programme
+-------------------------------
+Menu_About=                     A propos
+-------------------------------
+Tool_VideoControls=             Contrôles Vidéo
+Tools_SaveSpectrum=             Sauver Spectrogramme
+Tools_SaveCamera=               Sauver Image Caméra
+Tools_SaveTotal=                Sauver Fenêtre Complète
+-------------------------------
+GroupBox_VideoInDevice=         Périphérique Vidéo
+-------------------------------
+GroupBox_Input=                  Entrée Vidéo 
+chk_Flip=                       Flip
+Label_SizeY=                    Hauteur Y
+Label_StartY=                   Début Y
+Label_StartX=                   Début X
+Label_EndX=                     Fin X                   
+-------------------------------
+GroupBox_SaveImage=              Paramètres de Sauvegarde 
+Label_Path=                     Chemin
+Label_Name=                     Nom
+Label_JpegQuality=              Qualité JPEG
+-------------------------------
+btn_Reference=                   Référence 
+btn_Dips=                       Creux
+btn_Peaks=                      Pics
+btn_Colors=                     Couleurs
+Label_Filter=                   Filtre
+Label_Speed=                    Vitesse
+btn_TrimScale=                  Calibration
+-------------------------------
+Form_VideoInControls=            Contrôles Entrée Vidéo 
+Tool_OpenSourcePanel=           Source Vidéo
+Tool_OpenFormatPanel=           Format Vidéo
+Label_Default=                  Défaut
+Label_Auto=                     Auto
+Label_Compression=              Compression
+Label_VideoSize=                Dimensions Vidéo
+Label_MaxFps=                   Max FPS
+btn_DefaultAll=                 Tout à défaut
+btn_Close=                      Fermer
+-------------------------------
+Msg_About=                       Spectromètre UVA, Visible et Infrarouge proche 
+Msg_TrimTitle=                  Points de Calibration Manuels
+Msg_Trim1=                      Saisir le premier point de calibration en nanomètres.
+Msg_Trim2=                      Saisir le deuxième point de calibration en nanomètres.
